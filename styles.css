@@ -466,6 +466,11 @@ h2 {
     border: none;
     cursor: pointer;
 }
+.checkout-button a{
+    color: white;
+    text-decoration: none;
+    
+}
 
 .summary-item {
     display: flex;
